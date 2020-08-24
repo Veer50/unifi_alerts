@@ -1,0 +1,13 @@
+README.md
+setup.cfg
+setup.py
+unifi_alerts/__init__.py
+unifi_alerts/cli.py
+unifi_alerts/start_alerts.py
+unifialerts.egg-info/PKG-INFO
+unifialerts.egg-info/SOURCES.txt
+unifialerts.egg-info/dependency_links.txt
+unifialerts.egg-info/entry_points.txt
+unifialerts.egg-info/not-zip-safe
+unifialerts.egg-info/requires.txt
+unifialerts.egg-info/top_level.txt
